@@ -9,16 +9,18 @@ This space documents my weekly lab work, experiments, implementations, and insig
 
 | Sr. No. | Date | Topic / Assignment | Link |
 |:------:|--------|------------------------------|------|
-| 1 | 29/07/2025 | Teachable Machine- Intro Activity | [Website](link) |
-| 2 | 02/08/2025 | Understanding the Working of Neural Networks- Certification Course | [Certificate](link) |
-| 3 | 05/08/2025 | Landing AI Projects | [Folder](link) |
-| 4 | 12/08/2025 | Introduction to Hugging Face | [Folder](link) |
-| 5 | 19/08/2025 | Introduction to Kaggle | [Notebook](link) |
-| 6 | 26/08/2025 | Kaggle Hack-I | [Kaggle](link) |
-| 7 | 02/09/2025 | Kaggle Hack-II | [Kaggle](link) |
-| 8 | 09/09/2025 | Kaggle Hack-III | [Kaggle](link) |
-| 9 | 28/10/2025 | Time Series Anomaly Detection with PyCaret | [Notebook](link) |
-| 10 | 04/11/2025 | Anomaly Detection Assignment | [Python file](link) |
-| 11 | 11/11/2025 | Adaboost Assignment | [Notebook](link) |
-| 12 | 11/11/2025 | SVM Assignment | [Notebook](link) |
-| 13 | 11/11/2025 | Ensemble Learning: Voting Classifier | [Notebook](link) |
+| 1 | 29/07/2025 | Teachable Machine- Intro Activity | [![Link](https://img.shields.io/badge/Open-Teachable%20Machine-blue)](https://teachablemachine.withgoogle.com/) |
+| 2 | 02/08/2025 | Understanding the Working of Neural Networks- Certification Course | [![Link](https://img.shields.io/badge/View-Certificate-brightgreen)](https://courses.analyticsvidhya.com/certificates/ldlmewky0m) |
+| 3 | 05/08/2025 | Landing AI Projects | [![Link](https://img.shields.io/badge/Open-Landing%20Lens-blue)](https://app.landing.ai/app/167707162646535/home) |
+| 4 | 12/08/2025 | Introduction to Hugging Face | [![Link](https://img.shields.io/badge/Open-HuggingFace-yellow)](https://huggingface.co/) |
+| 5 | 19/08/2025 | Introduction to Kaggle | [![Link](https://img.shields.io/badge/Open-Kaggle-blue)](https://www.kaggle.com/) |
+| 6 | 26/08/2025 | Kaggle Hack-I | [![Link](https://img.shields.io/badge/Open-Kaggle%20Hack--I-blueviolet)](https://www.kaggle.com/competitions/2025-uml-501-lab-3-q-14-kaggle-hack-i) |
+| 7 | 02/09/2025 | Kaggle Hack-II | [![Link](https://img.shields.io/badge/Open-Kaggle%20Hack--II-blueviolet)](https://www.kaggle.com/competitions/2025-uml-501-lab-3-q-21-kaggle-hack-ii) |
+| 8 | 09/09/2025 | Kaggle Hack-III | [![Link](https://img.shields.io/badge/Open-Kaggle%20Hack--III-blueviolet)](https://www.kaggle.com/competitions/2025-uml-501-lab-3q14-kaggle-hack-iii) |
+| 9 | 28/10/2025 | Time Series Anomaly Detection with PyCaret | [![Link](https://img.shields.io/badge/Open-PyCaret%20Blog-orange)](https://pycaret.gitbook.io/docs/learn-pycaret/official-blog/time-series-anomaly-detection-with-pycaret) |
+| 10 | 04/11/2025 | Anomaly Detection Assignment | [![Link](https://img.shields.io/badge/Open-Assignment-green)](https://github.com/psrana/Anomaly-Assignment/) |
+| 11 | 11/11/2025 | Adaboost Assignment | Notebook |
+| 12 | 11/11/2025 | SVM Assignment | Notebook |
+| 13 | 11/11/2025 | Ensemble Learning: Voting Classifier | [![Link](https://img.shields.io/badge/Open-ScikitLearn-black)](https://scikit-learn.org/stable/modules/ensemble.html) |
+
+</div>
