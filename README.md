@@ -21,7 +21,7 @@ This space documents my weekly lab work, experiments, implementations, and insig
 | 10 | 04/11/2025 | Anomaly Detection Assignment | [![Assignment](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/psrana/Anomaly-Assignment/) |
 | 11 | 11/11/2025 | Adaboost Assignment | [![Folder](https://img.shields.io/badge/Folder-1E90FF?logo=openfolder&logoColor=white)](./Adaboost/) |
 | 12 | 11/11/2025 | SVM Assignment | [![Folder](https://img.shields.io/badge/Folder-1E90FF?logo=openfolder&logoColor=white)](./SVM/) |
-| 13 | 11/11/2025 | Ensemble Learning: Voting Classifier | [![Sklearn](https://img.shields.io/badge/Scikit--Learn-FF6F00?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/stable/modules/ensemble.html) |
+| 13 | 11/11/2025 | Ensemble Learning: Voting Classifier | [![Sklearn](https://img.shields.io/badge/Scikit--Learn-FF6F00?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/stable/modules/ensemble.html) [![Folder](https://img.shields.io/badge/Folder-1E90FF?logo=openfolder&logoColor=white)](./Ensemble%20Learning/) |
 
 #### Resources:
 - https://bit.ly/ml-psrana
